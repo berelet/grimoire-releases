@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Grimoire</title>
+        <item>
+            <title>0.7.0</title>
+            <pubDate>Mon, 12 Oct 2026 22:49:53 +0300</pubDate>
+            <sparkle:version>0.7.0</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown" xml:lang="ru"><![CDATA[## Grimoire 0.7.0
+
+- **Кто что сказал.** В транскрипте совещания голоса собеседников теперь разделяются: «Собеседник 1», «Собеседник 2» и так далее. Имя достаточно вписать один раз — оно встанет во все реплики человека, в экспорт и в саммари. Для этого нужен дополнительный набор моделей «Разделение по голосам» — он скачивается в настройках записи.
+- Саммари подсказывает имена собеседников — они сразу появляются в транскрипте как неподтверждённые, их можно принять или исправить.
+- Встречи, разобранные до этой версии, можно разделить по голосам кнопкой «Разделить по голосам».
+- Название встречи — заметное поле: своё название можно вписать и во время записи, и после неё. Событие календаря больше не затирает название, вписанное вручную.
+- Событие календаря переехало из шапки встречи в кнопку на панели инструментов: тема, время и участники — во всплывающем окне.
+- Шестерёнка настроек — справа на панели инструментов окна.
+- Кнопки пилюли записи — как в окне: «Заметка», «Отметить», «Остановить».
+]]></description>
+            <enclosure url="https://api.github.com/repos/berelet/grimoire-releases/releases/assets/634815070" length="17908027" type="application/octet-stream" sparkle:edSignature="uVCAivb8M9ZSCQod+uSCT8zp5jVpX6sPs2lMalhXmBWe+KlniYzGXQQTPV27nPr/6n/vQUA4ELv+AyKmJmCxCw=="/>
+        <description sparkle:format="markdown" xml:lang="uk">## Grimoire 0.7.0
+
+- **Хто що сказав.** У транскрипті наради голоси співрозмовників тепер розділяються: «Співрозмовник 1», «Співрозмовник 2» і так далі. Ім'я достатньо вписати один раз — воно стане в усі репліки людини, в експорт і в саммарі. Для цього потрібен додатковий набір моделей «Розділення за голосами» — він завантажується в налаштуваннях запису.
+- Саммарі підказує імена співрозмовників — вони одразу з'являються в транскрипті як непідтверджені, їх можна прийняти або виправити.
+- Зустрічі, розібрані до цієї версії, можна розділити за голосами кнопкою «Розділити за голосами».
+- Назва зустрічі — помітне поле: свою назву можна вписати і під час запису, і після нього. Подія календаря більше не затирає назву, вписану вручну.
+- Подія календаря переїхала з шапки зустрічі в кнопку на панелі інструментів: тема, час і учасники — у спливному вікні.
+- Шестерня налаштувань — праворуч на панелі інструментів вікна.
+- Кнопки пігулки запису — як у вікні: «Нотатка», «Позначити», «Зупинити».
+</description><description sparkle:format="markdown" xml:lang="en">## Grimoire 0.7.0
+
+- **Who said what.** Meeting transcripts now separate the other participants' voices: "Speaker 1", "Speaker 2", and so on. Type a name once and it appears in all of that person's lines, in exports, and in the summary. This needs the optional "Speaker separation" model set, which you can download in the recording settings.
+- The summary suggests participants' names — they appear in the transcript right away as unconfirmed, so you can accept or correct them.
+- Meetings processed before this version can be split by voice with the "Separate speakers" button.
+- The meeting title is now a visible field: you can type your own title both during and after recording. A calendar event no longer overwrites a title you entered manually.
+- The calendar event moved from the meeting header to a toolbar button: subject, time and attendees open in a popover.
+- The settings gear is now at the right end of the window toolbar.
+- The recording pill buttons now match the window: "Note", "Mark", "Stop".
+</description><description sparkle:format="markdown" xml:lang="es">## Grimoire 0.7.0
+
+- **Quién dijo qué.** En la transcripción de una reunión, las voces de los demás participantes ahora se separan: «Interlocutor 1», «Interlocutor 2», etc. Basta con escribir un nombre una vez y aparecerá en todas las intervenciones de esa persona, en la exportación y en el resumen. Para ello se necesita el conjunto de modelos opcional «Separación por voces», que se descarga en los ajustes de grabación.
+- El resumen sugiere los nombres de los participantes: aparecen de inmediato en la transcripción como no confirmados y se pueden aceptar o corregir.
+- Las reuniones procesadas antes de esta versión se pueden separar por voces con el botón «Separar por voces».
+- El título de la reunión es ahora un campo visible: puedes escribir tu propio título durante la grabación y después. Un evento del calendario ya no sobrescribe un título escrito a mano.
+- El evento del calendario pasó del encabezado de la reunión a un botón de la barra de herramientas: asunto, hora y asistentes, en una ventana emergente.
+- El engranaje de ajustes está ahora a la derecha de la barra de herramientas de la ventana.
+- Los botones de la píldora de grabación coinciden con los de la ventana: «Nota», «Marcar», «Detener».
+</description><description sparkle:format="markdown" xml:lang="de">## Grimoire 0.7.0
+
+- **Wer hat was gesagt.** Im Transkript einer Besprechung werden die Stimmen der anderen Teilnehmenden jetzt getrennt: „Gesprächspartner 1“, „Gesprächspartner 2“ usw. Ein Name muss nur einmal eingegeben werden und erscheint dann in allen Beiträgen dieser Person, im Export und in der Zusammenfassung. Dafür wird das optionale Modellpaket „Sprechertrennung“ benötigt, das sich in den Aufnahmeeinstellungen herunterladen lässt.
+- Die Zusammenfassung schlägt Namen der Teilnehmenden vor – sie erscheinen sofort als unbestätigt im Transkript und lassen sich übernehmen oder korrigieren.
+- Besprechungen, die vor dieser Version verarbeitet wurden, lassen sich mit der Taste „Nach Sprechern trennen“ aufteilen.
+- Der Besprechungstitel ist jetzt ein sichtbares Feld: Ein eigener Titel lässt sich während und nach der Aufnahme eintragen. Ein Kalenderereignis überschreibt einen manuell eingegebenen Titel nicht mehr.
+- Das Kalenderereignis ist aus dem Kopf der Besprechung in eine Taste der Symbolleiste umgezogen: Betreff, Zeit und Teilnehmende erscheinen in einem Popover.
+- Das Zahnrad für die Einstellungen sitzt jetzt rechts in der Symbolleiste des Fensters.
+- Die Tasten der Aufnahmepille entsprechen jetzt denen im Fenster: „Notiz“, „Markieren“, „Stoppen“.
+</description><description sparkle:format="markdown" xml:lang="fr">## Grimoire 0.7.0
+
+- **Qui a dit quoi.** Dans la transcription d'une réunion, les voix des autres participants sont désormais séparées : « Interlocuteur 1 », « Interlocuteur 2 », etc. Il suffit de saisir un nom une fois pour qu'il apparaisse dans toutes les interventions de la personne, dans l'export et dans le résumé. Il faut pour cela le jeu de modèles facultatif « Distinction des voix », téléchargeable dans les réglages d'enregistrement.
+- Le résumé suggère les noms des participants : ils apparaissent aussitôt dans la transcription comme non confirmés, et vous pouvez les accepter ou les corriger.
+- Les réunions traitées avant cette version peuvent être séparées par voix avec le bouton « Distinguer les voix ».
+- Le titre de la réunion est désormais un champ visible : vous pouvez saisir votre propre titre pendant et après l'enregistrement. Un événement du calendrier n'écrase plus un titre saisi à la main.
+- L'événement du calendrier a quitté l'en-tête de la réunion pour un bouton de la barre d'outils : sujet, horaire et participants dans une fenêtre contextuelle.
+- La roue crantée des réglages se trouve désormais à droite de la barre d'outils de la fenêtre.
+- Les boutons de la pilule d'enregistrement correspondent à ceux de la fenêtre : « Note », « Marquer », « Arrêter ».
+</description></item>
+    </channel>
+</rss>
